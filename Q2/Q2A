@@ -1,1 +1,10 @@
-Q2A answers
+public class IT26102395Lab6Q2A {
+   public static void main(String[] args) {
+     int i=0;
+    while(i<=10){
+        System.out.print(i+" ");
+        i++;
+    }
+   }
+}
+
